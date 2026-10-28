@@ -33,8 +33,8 @@ irm https://github.com/mutesonix/pip/releases/latest/download/install-win.ps1 | 
 
 ## How it works
 
-pip. asks your browser for its own picture-in-picture window and lifts the site's "no picture-in-picture" switch.
+pip. opens a floating window that stays on top and moves the site's own video into it, then lifts the site's "no picture-in-picture" switch.
 The site's player keeps playing the stream; pip. doesn't record, download or decrypt anything.
-Subtitles drawn by the site stay on the tab.
+Subtitles: pip. copies the text the site shows into the floating window, at the size you set (50 – 250 %). Pick subtitle and audio language from the window's menus (Netflix) or the site's own player.
 
 See [TERMS.txt](TERMS.txt). Bugs and ideas: sunn.studio.cnx@gmail.com
