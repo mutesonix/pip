@@ -1,12 +1,12 @@
-## pip. 1.0.0
+## pip. 1.1.0
 
-First release. Float Netflix, HBO Max, Prime Video, Disney+, YouTube, Viu, iQIYI, WeTV, TrueID, MONOMAX and any other video in a window that stays on top.
+Subtitles in the floating window.
 
-- **FLOAT** in the popup, **Alt+P** on the page, or the FLOAT button on the right edge of the player.
-- Switch tabs while it plays and it floats by itself (Chrome may ask once per site).
-- Popup controls: −10 s / play / +10 s, speed 1× – 2×, and control a floating video from any tab.
-- Tells you when a newer version is out.
+- **Subtitles show in the floating window.** pip. now opens its own floating window with the video and copies the site's subtitles into it as text.
+- **Pick subtitles and audio language** from the CC and speaker buttons in the window. On Netflix the lists come from Netflix's own player. On other sites pick the language in the site's player, and whatever it shows appears in the window.
+- **Subtitle size** 50 – 250 %: Settings → Subtitle size, or A− / A+ in the window's CC menu (+ / − keys). C turns subtitles on or off.
+- Window controls: play / pause, −10 s / +10 s, progress bar, back to the tab.
+- **Update button** at the top of the popup, like pull.: checks GitHub now, and when a new version is out it downloads the right Setup for your computer.
+- Settings → "Window with subtitles" off goes back to the browser's plain floating window.
 
-**Install:** Windows → pip-setup-win.exe · Mac → pip-setup-mac.zip, or the one-line installers in the README. `pip-extension.zip` is the bare extension for "Load unpacked".
-
-Not yet: subtitles in the floating window (the sites draw them on the page, not in the video).
+**Install:** Windows → pip-setup-win.exe · Mac → pip-setup-mac.zip, or the one-line installers in the README. Already on 1.0.0? Run the new Setup; the extension restarts itself.
