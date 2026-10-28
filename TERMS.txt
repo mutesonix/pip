@@ -1,0 +1,103 @@
+pip. — Terms of Use & Privacy Policy
+by SUNN. (Trithaset Chaimongkol)
+Version: 28 October 2026 · applies to every version of pip.
+
+By downloading, installing or using pip. you confirm that you have read and
+accept these terms. If you do not accept them, do not use pip.
+
+1. WHAT PIP. IS
+pip. is a free browser extension that shows a video you are already watching
+in your browser's built-in picture-in-picture window. It does not download,
+record, copy, decrypt or redistribute any video, and it does not bypass DRM:
+the streaming site's own player keeps playing the stream under your account.
+
+2. YOUR RESPONSIBILITY
+Use pip. only with services you are entitled to watch, and follow their terms
+of service. You alone are responsible for how you use pip.
+
+3. NO WARRANTY
+pip. is provided "AS IS", without warranty of any kind, express or implied,
+including fitness for a particular purpose, availability or freedom from
+errors. Sites can change at any time and features may stop working. The
+developer has no obligation to fix, update or support pip.
+
+4. LIMITATION OF LIABILITY
+To the maximum extent permitted by law, the developer is not liable for any
+direct or indirect damage arising from the use of or inability to use pip.,
+including suspension of any account or third-party claims.
+
+5. PRIVACY
+pip. does not collect, send or sell personal data. It has no analytics,
+tracking or accounts. Its settings stay in your browser. It reads the video
+player on the page you are on only to float it, and connects only to GitHub
+to check for a newer version, and to pip. Setup on your own computer
+(127.0.0.1) while you install it.
+
+6. THIRD-PARTY SOFTWARE
+Fonts used: Doto, Sora and IBM Plex Sans Thai under the SIL Open Font License.
+
+7. TRADEMARKS
+pip. is not affiliated with, endorsed by or partnered with Netflix, Warner
+Bros. Discovery (HBO Max), Amazon (Prime Video), Disney, Apple, Google,
+Microsoft or any other service or browser vendor. All names and trademarks
+belong to their owners and are used only to describe compatibility.
+
+8. OWNERSHIP OF PIP.
+The pip. name, the SUNN. logo and the program's design belong to SUNN.
+(Trithaset Chaimongkol). pip. is free for personal use. Do not sell it,
+redistribute modified copies under another name, or bundle it with other
+software. Download pip. only from github.com/mutesonix/pip.
+
+9. CHANGES
+The developer may change these terms or discontinue pip. at any time without
+notice. Continuing to use pip. after a change means you accept the new
+version. These terms are governed by the laws of Thailand.
+
+-------------------------------------------------------------------------------
+
+pip. — เงื่อนไขการใช้งานและนโยบายความเป็นส่วนตัว
+โดย SUNN. (Trithaset Chaimongkol) · ฉบับวันที่ 28 ตุลาคม 2026
+
+การดาวน์โหลด ติดตั้ง หรือใช้งาน pip. ถือว่าคุณอ่านและยอมรับข้อตกลงนี้แล้ว
+ถ้าไม่ยอมรับ กรุณาอย่าใช้งาน
+
+1. pip. คืออะไร
+pip. เป็นส่วนขยายเบราว์เซอร์ฟรี ที่นำวิดีโอที่คุณเปิดดูอยู่ไปแสดงในหน้าต่างลอย
+(picture-in-picture) ของเบราว์เซอร์เอง ไม่ดาวน์โหลด ไม่บันทึก ไม่ถอดรหัส และไม่แจกจ่าย
+วิดีโอใดๆ และไม่หลบเลี่ยงระบบป้องกัน (DRM) ตัวเล่นของเว็บยังเป็นผู้เล่นวิดีโอภายใต้บัญชีของคุณ
+
+2. ความรับผิดชอบของผู้ใช้
+ใช้ pip. กับบริการที่คุณมีสิทธิ์รับชม และปฏิบัติตามเงื่อนไขของบริการนั้น
+ผู้ใช้รับผิดชอบต่อการใช้งานของตนเองแต่เพียงผู้เดียว
+
+3. ไม่มีการรับประกัน
+pip. ให้ใช้ “ตามสภาพที่เป็นอยู่” โดยไม่มีการรับประกันใดๆ เว็บอาจเปลี่ยนระบบได้ทุกเมื่อ
+ทำให้บางฟีเจอร์ใช้ไม่ได้ ผู้พัฒนาไม่มีหน้าที่ต้องแก้ไข อัปเดต หรือให้การสนับสนุน
+
+4. ข้อจำกัดความรับผิด
+ภายในขอบเขตสูงสุดที่กฎหมายอนุญาต ผู้พัฒนาไม่ต้องรับผิดต่อความเสียหายใดๆ
+ทั้งทางตรงและทางอ้อม อันเกิดจากการใช้หรือไม่สามารถใช้ pip. รวมถึงการถูกระงับบัญชี
+หรือข้อเรียกร้องจากบุคคลที่สาม
+
+5. ความเป็นส่วนตัว
+pip. ไม่เก็บ ไม่ส่ง และไม่ขายข้อมูลส่วนบุคคล ไม่มีระบบติดตามหรือสถิติ ไม่ต้องสมัครสมาชิก
+การตั้งค่าเก็บอยู่ในเบราว์เซอร์ของคุณ อ่านตัวเล่นวิดีโอบนหน้าที่เปิดอยู่เพื่อทำให้ลอยเท่านั้น
+และเชื่อมต่อเฉพาะ GitHub เพื่อตรวจเวอร์ชันใหม่ กับ pip. Setup ในเครื่องของคุณเอง
+(127.0.0.1) ระหว่างติดตั้ง
+
+6. ซอฟต์แวร์ของบุคคลที่สาม
+ฟอนต์ Doto, Sora และ IBM Plex Sans Thai ใช้ภายใต้ SIL Open Font License
+
+7. เครื่องหมายการค้า
+pip. ไม่มีส่วนเกี่ยวข้องหรือได้รับการรับรองจาก Netflix, Warner Bros. Discovery (HBO Max),
+Amazon (Prime Video), Disney, Apple, Google, Microsoft หรือบริการและผู้พัฒนาเบราว์เซอร์
+ใดๆ ชื่อทั้งหมดเป็นของเจ้าของแต่ละราย ใช้เพื่อบอกความเข้ากันได้เท่านั้น
+
+8. ลิขสิทธิ์ของ pip.
+ชื่อ pip. โลโก้ SUNN. และงานออกแบบเป็นของ SUNN. (Trithaset Chaimongkol)
+แจกให้ใช้ฟรีเพื่อการใช้งานส่วนบุคคล ห้ามนำไปขาย ดัดแปลงแจกในชื่ออื่น หรือแนบซอฟต์แวร์อื่น
+ดาวน์โหลดจาก github.com/mutesonix/pip เท่านั้น
+
+9. การเปลี่ยนแปลง
+ผู้พัฒนาอาจแก้ไขข้อตกลงนี้หรือหยุดให้บริการได้ทุกเมื่อโดยไม่ต้องแจ้งล่วงหน้า
+ข้อตกลงนี้อยู่ภายใต้กฎหมายไทย
